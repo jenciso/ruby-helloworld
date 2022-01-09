@@ -20,5 +20,4 @@ class App < Sinatra::Base
     "Im Alive, TimeStamp: #{Time.now}"     
   end                                      
  
-
 end
